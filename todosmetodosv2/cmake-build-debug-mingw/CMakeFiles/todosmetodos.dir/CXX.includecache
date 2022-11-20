@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Guga/CLionProjects/todosmetodos/main.cpp
+sistema.h
+C:/Users/Guga/CLionProjects/todosmetodos/sistema.h
+
+C:/Users/Guga/CLionProjects/todosmetodos/sistema.cpp
+sistema.h
+C:/Users/Guga/CLionProjects/todosmetodos/sistema.h
+
+C:/Users/Guga/CLionProjects/todosmetodos/sistema.h
+iostream
+-
+iomanip
+-
+math.h
+-
+
